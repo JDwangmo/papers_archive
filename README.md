@@ -2,6 +2,7 @@
 ### archive some related papers of interests
 - > sentiment_analysis
 - > math_basic
+- > NN_basic
 
 
 ##### sentiment_analysis : more detail about this domain in [here](https://github.com/JDwangmo/sentiment_classification)
@@ -11,6 +12,12 @@
 ##### math_basic : 数学基础
 1、[Calculus on Computational Graphs_ Backpropagation -- colah's blog](https://raw.githubusercontent.com/JDwangmo/papers_archive/master/math_basic/Calculus-on-Computational-Graphs_Backpropagation--colah's_blog.pdf):图的导数求导，讲的很详细。
 
-##### math_basic : 神经网络基础
-1、[Recurrent Neural Networks Tutorial, Part 3 – Backpropagation Through Time and Vanishing Gradients – WildML](https://raw.githubusercontent.com/JDwangmo/papers_archive/master/NN_basic/Recurrent-Neural-Networks-Tutorial-Part-3–Backpropagation-Through-Time-and-Vanishing-Gradients–WildML.pdf)
+##### NN_basic : 神经网络基础
+- 1、[Recurrent Neural Networks Tutorial, Part 3 – Backpropagation Through Time and Vanishing Gradients – WildML](https://raw.githubusercontent.com/JDwangmo/papers_archive/master/NN_basic/Recurrent-Neural-Networks-Tutorial-Part-3–Backpropagation-Through-Time-and-Vanishing-Gradients–WildML.pdf)
+    - RNN原理、梯度消失问题。
+    - tanh derivative is  <1  for all inputs except 0; sigmoid is even worse and is always  ≤ 0.25.
     - more detail from [Wild's blog](http://www.wildml.com/2015/10/recurrent-neural-networks-tutorial-part-3-backpropagation-through-time-and-vanishing-gradients/)
+
+- 2、[Understanding LSTM Networks -- colah's blog](https://raw.githubusercontent.com/JDwangmo/papers_archive/master/NN_basic/Understanding-LSTM-Networks--colah's-blog.pdf)
+    - RNN，LSTM，原理讲得很详细，推荐LSTM入门文章。
+    - [More](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
