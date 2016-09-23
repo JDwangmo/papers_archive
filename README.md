@@ -1,9 +1,18 @@
 # papers_archive
 ### archive some related papers of interests
+- > general works
 - > sentiment_analysis
 - > math_basic
 - > NN_basic
 
+
+
+
+##### general works: including some basic knowledge about NLP, Image ...
+
+1、ACL papers collections: http://www.aclweb.org/anthology/
+
+2、如何查找NLP文献： http://blog.sina.com.cn/s/blog_574a437f01019poo.html
 
 ##### sentiment_analysis : more detail about this domain in [here](https://github.com/JDwangmo/sentiment_classification)
 1、[MGNC-CNN:A Simple Approach to Exploiting Multiple Word Embeddings for Sentence Classification](https://raw.githubusercontent.com/JDwangmo/papers_archive/master/sentiment_analysis/N16-1178-MGNC-CNN:A-Simple-Approach-to-Exploiting-Multiple-Word-Embeddings-for-Sentence-Classification.pdf)
