@@ -20,4 +20,5 @@
 
 - 2、[Understanding LSTM Networks -- colah's blog](https://raw.githubusercontent.com/JDwangmo/papers_archive/master/NN_basic/Understanding-LSTM-Networks--colah's-blog.pdf)
     - RNN，LSTM，原理讲得很详细，推荐LSTM入门文章。
+    - 我们知道RNN有梯度消失的问题，即对很久时间前的更新很弱，也就是会忘记前面的上下文，所以 LSTM 提供的解决方法就是引入了一个“笔记本”（记忆单元）来记忆信息/state，这就是LSTM的核心。
     - [More](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
