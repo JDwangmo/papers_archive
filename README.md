@@ -10,7 +10,9 @@
 
 ##### general works: including some basic knowledge about NLP, Image ...
 
-1、ACL papers collections: http://www.aclweb.org/anthology/
+1、Association for Computational Linguistics (ACL) papers collections: http://www.aclweb.org/anthology/
+
+2、Advances in Neural Information Processing Systems (NIPS) papers collections: http://papers.nips.cc/
 
 2、如何查找NLP文献： http://blog.sina.com.cn/s/blog_574a437f01019poo.html
 
